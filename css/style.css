@@ -1,0 +1,472 @@
+
+header{
+	padding:0px;
+	margin: 0px;
+	background-color:#eee;
+}
+
+/*--------------------------------------------start header & nav---------------------------------------------------------------*/
+header .cover{
+	height:450px;
+    background-image: url(https://gearpatrol.com/wp-content/uploads/2019/09/Bugatti-Chiron-gear-patrol-slide-01.jpg);
+	background-size:cover;
+	text-align:center;
+	padding-top:200px;
+	width: 100%;
+
+
+}
+
+header .cover h1{
+
+	padding:1px;
+	margin:auto;
+   font-size:80px; 
+   width: 600px;
+   color: #fff;
+   border-top: 6px solid #fff;
+   border-bottom: 6px solid #fff;
+
+}
+
+
+header .cover button{
+	font-size: 25px;
+	padding: 10px;
+	margin: 20px;
+	background:none;
+	border:5px solid #fff;
+	color: #fff;
+}
+
+header nav {
+	height:100px;
+	background-color:#07051a;
+}
+
+
+header nav .list {display:inline-block;}
+
+header nav .list p{
+	padding:10px;
+	margin:10px;
+	color: #fff;
+	font-size:50px;
+	float: left;
+	overflow: hidden;
+	
+
+}
+
+header nav .list span {
+	color:#6d0003;
+	font-size:60px;
+	padding: 10px;
+	margin:10px;
+	font-family:TypoUpright BT;
+	border:2px solid #FFF;
+	line-height: 0.5px;
+
+
+}
+
+header nav .list ul{
+	margin:10px;
+	display:inline-block;
+	float:left;
+
+}
+
+
+header nav .list ul li{
+	display: inline-block;
+	font-size:25px;
+	padding: 15px;
+	margin: 10px;
+	color: #fff;
+	float:left;
+}
+
+header nav .list ul li:hover{
+	color:#6d0003;
+	font-size:20px;
+	transition:0.4s; 
+}
+/*--------------------------------------------end header & nav---------------------------------------------------------------*/
+
+/*---------------------------------------------start about us----------------------------------------------------------------*/
+.about {
+	text-align: center;
+}
+
+.about h1{
+	font-size:60px;
+	color::#07051a;
+}
+
+
+.about p {
+
+font-size:30px;
+
+}
+/*--------------------------------------------end about us----------------------------------------------------------------*/
+
+/*--------------------------------------------start fast cars ----------------------------------------------------------------*/
+
+.fast{
+
+	width:100%;
+	background-color: #07051a;
+	color:#6d0003;
+	font-size: 30px;
+	height:600px;
+	text-align: center; 
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.fast .fast1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.fast .fast2{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.fast .fast1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}	
+
+.fast .fast1 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+}
+
+.fast .fast1 h1{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+   font-family: 'Dancing Script', cursive;
+}
+
+.fast .fast2 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+}
+
+.fast .fast2 h1{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.fast .fast3 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+}
+
+.fast .fast3 h1{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+/*--------------------------------------------end fast cars----------------------------------------------------------------*/
+
+/*==========================================start said==================================================================*/
+
+.pioneer{
+
+	width:100%;
+	background-color:#fff;
+	color:#000;
+	font-size: 30px;
+	height:800px;
+	text-align: center; 
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.pioneer .pioneer1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.pioneer .pioneer2{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.pioneer .pioneer1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}	
+
+.pioneer .pioneer1 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+		box-shadow: 0 0 8px 0 #000;
+}
+
+.pioneer.pioneer1 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+   font-family: 'Dancing Script', cursive;
+}
+
+.pioneer .pioneer2 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+		box-shadow: 0 0 8px 0 #000;
+}
+
+.pioneer .pioneer2 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.pioneer .pioneer3 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+		box-shadow: 0 0 8px 0 #000;
+}
+
+.pioneer .pioneer3 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+/*======================================end said====================================================================*/
+
+/*=======================================start subscrib=============================================================*/ 
+
+.sub{
+	padding:180px;
+	height:250px;
+	background-color:#07051a;
+	text-align: center;
+	color: #fff;
+}
+
+
+.sub h1{
+	font-size:80px;
+	text-align: center;
+}
+
+.sub .input{
+	padding:0px;
+	margin:0px; 
+	text-align: center;
+
+}
+
+.sub .input button {
+
+	font size: 30px;
+	background:none;
+	color: #6d0003;
+	border:3px solid #6d0003;
+
+}
+
+.sub .input p{
+  text-align: center;
+  font-size: 30px;
+}
+/*=======================================start subscrib=============================================================*/ 
+
+/*=======================================start bionner=============================================================*/ 
+.said{
+
+	width:100%;
+	background-color:#fff;
+	color:#000;
+	font-size: 30px;
+	height:800px;
+	text-align: center; 
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.said .said1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.said .said2{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}
+
+.said .said1{
+	width: 33.33%;
+	float: right;
+	display:inline-block;
+}	
+
+.said .said1 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%;
+    box-shadow: 0 0 8px 0 #000; 
+}
+
+.said.sai1 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+   font-family: 'Dancing Script', cursive;
+}
+
+.said .said2 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%; 
+    box-shadow: 0 0 8px 0 #000;
+}
+
+.said .said2 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.said .said3 img{
+	padding:30px;
+	width: 300px;
+	height: 300px;
+	border-radius:50%;
+	box-shadow: 0 0 8px 0 #000;
+}
+
+.said .said3 p{
+
+	text-align: center;
+	padding: 10px;
+	margin:10px;
+	font-family: 'Dancing Script', cursive;
+}
+/*=======================================end bioneer=============================================================*/ 
+
+/*=======================================start contact=============================================================*/ 
+input[type=text]{
+	outline: none;
+	transition: .3s;
+}
+ 
+input[type=text]:focus{
+	border-color:#6d0003; 
+	box-shadow: 0 0 8px 0 #6d0003;
+}
+.contact{
+	font-size: 40px;
+	color: #6d0003;
+	background-color:#07051a; 
+	text-align: center;
+	height: 500px;
+}
+
+.contact h1{
+	font-size: 90px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.contact .main{ float: left;
+
+
+}
+.contact .main.con1{
+
+	padding: 15px;
+	margin: 10px;
+
+}
+
+.contact .main .con2{
+	padding: 15px;
+	margin: 10px;
+}
+
+.contact .main .con3{
+	padding: 15px;
+	margin: 10px;
+}
+
+.contact .intext{
+	height:230px;
+}
+
+.contact .intext textarea {
+	background:none;
+	color:#fff;
+	outline: none;
+}	
+
+
+.contact .intext textarea:focus{
+
+border-color:#6d0003; 
+	box-shadow: 0 0 8px 0 #6d0003;
+
+}
+
+.contact  input{
+	margin: 10px;
+	background:none;
+	color: #6d0003;
+}
+/*=======================================end contact===============================================================*/ 
+
+/*=======================================start footer===============================================================*/ 
+footer{
+	background-color:#000;
+	overflow: hidden;
+	color: #6d0003;
+	text-align: center;
+	font-size: 50px;
+	font-weight:bold;
+}
+
+
+/*=======================================end footer===============================================================*/ 
